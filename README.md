@@ -1,4 +1,4 @@
-# install-ubuntu-server
+# Install-Ubuntu-Server
 
 Server version
 ==============================
